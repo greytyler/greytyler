@@ -1,7 +1,7 @@
 <img src ="https://github.com/greytyler/greytyler/blob/main/Aubrey%20Dube(4).png" alt ="Software Engineering|Development" align="center" width="100%"/>
 
 
-<h3 align="center">A passionate software developer</h3>
+<h4 align="center">A passionate software developer</h4>
 
 ---
 
