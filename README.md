@@ -5,9 +5,9 @@
 
 ---
 
-- 🔭 I’m currently working on **React** web apps development and **APIs**
+- 🔭 I’m currently working on different web and mobile projects
 
-- 🌱 I’m currently learning **Angular**, **Node js** while sharpening my other technical skills
+- 🌱 I’m currently experimenting with **Ai** while sharpening my other technical skills
 
 - 👯 I’m looking to collaborate on **different software development projects or challenges, especially in Web development space**
 - 📊Always **learning, practising, building, improving and of course, enjoying 😅💪 
