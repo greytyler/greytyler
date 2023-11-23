@@ -97,6 +97,6 @@
 
 ---
 
-"People tend to think of the web as a way to get information or perhaps as a place to carry out ecommerce. But really, the web is about accessing applications. Think of each website as an application, and every single click, every single interaction with that site, is an opportunity to be on the very latest version of that application."
->>― Marc Andreessen
+"The function of good software is to make the complex appear to be simple."
+>>― Grady Booch
 -- 
