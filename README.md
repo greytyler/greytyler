@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on different web and mobile projects
 
-- 🌱 I’m currently experimenting with **Ai** while sharpening my other technical skills
+- 🌱 I’m currently experimenting with **Ai & ML** while sharpening my other technical skills
 
-- 👯 I’m looking to collaborate on **different software development projects or challenges, especially in Web development space**
+- 👯 I’m looking to collaborate on **different software engineering projects or challenges, especially in sofware development space**
 - 📊Always **learning, practising, building, improving and of course, enjoying 😅💪 
 
 - 💬 Ask me about **anything**
@@ -20,7 +20,7 @@
 
 <h5>Some hobbies of mine</h5>
 
-🏔. Reading tech and programming blogs<br>
+🏔. Reading tech blogs<br>
 💻. Experimenting with new technologies<br>
 📔. Sports, fitness, personal development
 
