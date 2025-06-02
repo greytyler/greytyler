@@ -20,7 +20,7 @@
 
 <h5>Some hobbies of mine</h5>
 
-🏔. Tech blogs and podcas<br>
+🏔. Tech blogs and podcasts<br>
 💻. Experimenting with new technologies<br>
 📔. Sports, fitness, personal development
 
