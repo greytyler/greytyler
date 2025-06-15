@@ -21,7 +21,7 @@
 <h5>Some hobbies of mine</h5>
 
 🏔. Tech blogs and podcasts<br>
-💻. Experimenting with new technologies<br>
+💻. Experimenting with new technologia<br>
 📔. Sports, fitness, personal development. 
 
 ---
