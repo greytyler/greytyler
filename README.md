@@ -22,7 +22,7 @@
 
 🏔. Tech blogs and podcasts<br>
 💻. Experimenting with new technologies<br>
-📔. Sports, fitness, personal development and 
+📔. Sports, fitness, personal development and content creation
 
 ---
 
