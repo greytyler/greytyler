@@ -1,4 +1,4 @@
-<img src ="https://github.com/greytyler/greytyler/blob/main/Aubrey%20Dube(4).png" alt ="Software Engineering|Development" align="center" width="100%"/>
+<img src ="https://github.com/greytyler/greytyler/blob/main/Aubrey%20Dube(4).png" alt ="Software Engineering|Development" align="center" width="100%"/
 
 
 <h4 align="center">lassionate software developer</h4>
