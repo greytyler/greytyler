@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on different software development and cloud data analytics projects. 
 
-- 🌱 I’m currently experimenting with **Ai** while sharpening my other technical skillio
+- 🌱 I’m currently experimenting with **Ai** while sharpening my other technical skil
 
 - 👯 I’m looking to collaborate on **different software engineering projects or challenges, especially in sofware dev, data and AI**
 - 📊Always **learning, practising, building, improving and of course, enjoying 😅💪 
