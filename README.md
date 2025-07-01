@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently experimenting with **Ai** while sharpening my other technical skills.
 
-- 👯 I’m looking to collaborate on **different software engineering projects or challenges, especially in sofware dev, data and AI**
+- 👯 I’m looking to collaborate on **different software engineering projects or challenges, especially in sofware development dev, data and AI**
 - 📊Always **learning, practising, building, improving and of course, enjoying 😅💪 
 
 - 💬 Ask me about **anything**
