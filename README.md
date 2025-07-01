@@ -6,7 +6,7 @@
 ---
 
 - 🔭 I’m currently working on different software development and Azure
-  WS cloud data analytics projects. 
+  AWS cloud data analytics projects. 
 
 - 🌱 I’m currently experimenting with **Ai** while sharpening my other technical skills.
 
