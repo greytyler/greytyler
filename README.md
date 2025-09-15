@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me: **<a href="aubreytdube19@gmail.com">email me</a>**
+- 📫 How to reach me: **<a href="aubreytdube19@gmail.com">email me here</a>**
 
 ---
 
