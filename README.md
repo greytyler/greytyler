@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on different software dev, cloud, and ai projects. 
+- 🔭 I’m currently working on different software dev, cloud, and AI projects. 
 
 - 🌱 I’m currently experimenting with **Ai** while sharpening my other technical skills.
 
