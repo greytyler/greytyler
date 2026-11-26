@@ -94,6 +94,8 @@
 <a href="https://github.com/greytyler" ><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
 <a href="https://mobile.twitter.com/greytyler"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter(https://mobile.twitter.com/greyt_tyler)"></a>
 <a href="https://www.linkedin.com/in/aubrey-t-dube-194896288"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aubrey-t-dube-194896288"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 ---
 
